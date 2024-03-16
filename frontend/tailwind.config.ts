@@ -10,11 +10,11 @@ const config: Config = {
   theme: {
     extend: {
       colors: {
-        pastelRed: '#ee6055', // Pastel Red
-        pastelGreen: '#60d394', // Pastel Green
-        pastelLime: "#aaf683", // Pastel lime
-        pastelYellow: "#ffd97d", // Pastel Yellow
-        pastelPink: "#ff9b85" // Pastel Pink 
+        pastelBlue: '#A2D2FF', // Pastel Red
+        pastelBlueLight: '#BDE0FE', // Pastel Green
+        pastelPurple: "#CDB4DB", // Pastel lime
+        pastelPinkDark: "#FFAFCC", // Pastel Yellow
+        pastelPink: "#FFC8DD" // Pastel Pink 
       },
       fontFamily: {
         primary: ['chilanka', 'sans-serif']
